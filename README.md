@@ -1,6 +1,6 @@
 # Reciva stations as SQLite database
 
-This is a dump of Reciva stations database which no longer exists. It contains 65859 streams for 52754 internet radio stations collected by users.
+This is a dump of Reciva stations database which no longer exists. It contains **65859 streams for 52754 internet radio stations** collected by users.
 
 **20.11.2021 - Added 56102 new streams and 44060 stations (however most of them are old and probably offline)**
 
